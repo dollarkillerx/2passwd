@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Chrome Extension TypeScript Starter",
-  "description": "Chrome Extension, TypeScript, Visual Studio Code",
+  "name": "2Passwd",
+  "description": "Free password manager https://github.com/dollarkillerx/2passwd",
   "version": "1.0",
 
   "options_ui": {
